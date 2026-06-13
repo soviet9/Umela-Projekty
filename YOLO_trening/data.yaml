@@ -1,0 +1,9 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: Sperk
+  1: Mys
+  2: vlak
