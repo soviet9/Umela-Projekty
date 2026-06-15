@@ -15,10 +15,10 @@ fi
 
 source .venv/Scripts/activate
 
-mkdir -p dataset/train/images
-mkdir -p dataset/train/labels
-mkdir -p dataset/val/images
-mkdir -p dataset/val/labels
+mkdir -p dataset/images/train
+mkdir -p dataset/labels/train
+mkdir -p dataset/images/val
+mkdir -p dataset/labels/val
 mkdir -p obrazky
 
 url1=""
